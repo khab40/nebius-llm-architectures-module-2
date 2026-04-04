@@ -10,19 +10,19 @@ The pipeline converts raw text into fixed-size bag-of-words vectors, then feeds 
 
 ```mermaid
 flowchart TD
-    A[SST-2 Dataset] --> B[clean_text]
-    B --> C[tokenize]
-    C --> D[build_vocabulary top_k=10000]
-    D --> E[convert_text_to_vec]
-    E --> F[dataset_to_vec]
-    F --> G[X_train X_val]
-    A --> H[y_train y_val]
-    G --> I[LogisticRegression nn.Module]
+    A[SST 2 Dataset] --> B[Clean Text]
+    B --> C[Tokenize]
+    C --> D[Build Vocabulary]
+    D --> E[Convert Text To Vector]
+    E --> F[Vectorize Dataset]
+    F --> G[Training And Validation Features]
+    A --> H[Training And Validation Labels]
+    G --> I[Logistic Regression Model]
     H --> J[Binary Targets]
     I --> K[Sigmoid Probabilities]
-    J --> L[binary_cross_entropy_loss]
+    J --> L[Binary Cross Entropy Loss]
     K --> L
-    L --> M[torch.optim.SGD]
+    L --> M[SGD Optimizer]
     M --> N[Updated Weights and Bias]
     N --> O[Accuracy F1 Sparsity Analysis]
 ```

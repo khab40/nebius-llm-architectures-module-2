@@ -10,9 +10,9 @@ Each notebook loads the same stylesheet through a small HTML reference cell. Tha
 
 ```mermaid
 flowchart LR
-    A[Notebook .ipynb] --> B[First markdown cell]
-    B --> C[link rel=stylesheet]
-    C --> D[src/notebook_theme.css]
+    A[Notebook File] --> B[First Markdown Cell]
+    B --> C[Stylesheet Link]
+    C --> D[Shared Notebook Theme CSS]
     D --> E[Typography]
     D --> F[Colors]
     D --> G[Code Cell Surfaces]

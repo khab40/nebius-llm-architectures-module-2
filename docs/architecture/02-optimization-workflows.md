@@ -14,16 +14,16 @@ The architecture separates three concerns:
 
 ```mermaid
 flowchart LR
-    A[Objective Function f(theta)] --> B[Initialize Parameters theta0]
+    A[Objective Function] --> B[Initialize Parameters]
     B --> C[Forward Pass]
     C --> D[Compute Loss]
-    D --> E[Autograd backward]
+    D --> E[Run Backward Pass]
     E --> F{Optimizer Rule}
     F --> G[Gradient Descent]
     F --> H[Momentum]
     F --> I[AdaGrad]
     F --> J[Adam]
-    G --> K[Update theta]
+    G --> K[Update Parameters]
     H --> K
     I --> K
     J --> K
