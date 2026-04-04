@@ -14,24 +14,24 @@ The architecture separates three concerns:
 
 ```mermaid
 flowchart LR
-    A[Objective Function] --> B[Initialize Parameters]
-    B --> C[Forward Pass]
-    C --> D[Compute Loss]
-    D --> E[Run Backward Pass]
-    E --> F{Optimizer Rule}
-    F --> G[Gradient Descent]
+    A[Objective] --> B[Init Params]
+    B --> C[Forward]
+    C --> D[Loss]
+    D --> E[Backward]
+    E --> F{Rule}
+    F --> G[GD]
     F --> H[Momentum]
     F --> I[AdaGrad]
     F --> J[Adam]
-    G --> K[Update Parameters]
+    G --> K[Update]
     H --> K
     I --> K
     J --> K
-    K --> L[Zero Gradients]
-    L --> M[Store Trajectory and Loss]
-    M --> N{More Steps?}
-    N -->|Yes| C
-    N -->|No| O[Plots and Comparison]
+    K --> L[Zero Grad]
+    L --> M[Store Path]
+    M --> N{Next Step}
+    N --> C
+    N --> O[Compare Results]
 ```
 
 ## Where it appears
