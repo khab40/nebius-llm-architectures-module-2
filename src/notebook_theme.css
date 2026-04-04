@@ -1,0 +1,181 @@
+:root {
+  --na-bg: #f9f8f6;
+  --na-surface: rgba(255, 255, 255, 0.9);
+  --na-surface-strong: #fffdf9;
+  --na-ink: #14070f;
+  --na-ink-soft: #2c2027;
+  --na-muted: rgba(20, 7, 15, 0.7);
+  --na-border: rgba(20, 7, 15, 0.12);
+  --na-blue: #2d86f1;
+  --na-green: #2d9b48;
+  --na-coral: #d26334;
+  --na-shadow: 0 18px 50px rgba(20, 7, 15, 0.08);
+}
+
+body,
+.jp-Notebook,
+.jp-NotebookPanel-notebook,
+.notebook_app,
+.container {
+  background:
+    radial-gradient(circle at top right, rgba(45, 134, 241, 0.10), transparent 26%),
+    radial-gradient(circle at left 20%, rgba(210, 99, 52, 0.10), transparent 24%),
+    linear-gradient(180deg, #fffdf9 0%, var(--na-bg) 100%);
+}
+
+.jp-RenderedHTMLCommon,
+.text_cell_render,
+.rendered_html {
+  color: var(--na-ink-soft);
+  font-family: "Inter 28", Inter, Arial, sans-serif;
+  line-height: 1.72;
+}
+
+.jp-RenderedHTMLCommon h1,
+.text_cell_render h1,
+.rendered_html h1 {
+  color: var(--na-ink);
+  font-size: 2.45rem;
+  font-weight: 500;
+  letter-spacing: -0.04em;
+  line-height: 1.06;
+  margin-bottom: 0.7rem;
+}
+
+.jp-RenderedHTMLCommon h2,
+.jp-RenderedHTMLCommon h3,
+.text_cell_render h2,
+.text_cell_render h3,
+.rendered_html h2,
+.rendered_html h3 {
+  color: var(--na-ink);
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  margin-top: 1.8rem;
+  margin-bottom: 0.65rem;
+}
+
+.jp-RenderedHTMLCommon a,
+.text_cell_render a,
+.rendered_html a {
+  color: var(--na-blue);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(45, 134, 241, 0.28);
+}
+
+.jp-RenderedHTMLCommon a:hover,
+.text_cell_render a:hover,
+.rendered_html a:hover {
+  color: #1567c1;
+  border-bottom-color: rgba(21, 103, 193, 0.45);
+}
+
+.jp-RenderedHTMLCommon strong,
+.text_cell_render strong,
+.rendered_html strong {
+  color: var(--na-ink);
+}
+
+.jp-RenderedHTMLCommon ul,
+.jp-RenderedHTMLCommon ol,
+.text_cell_render ul,
+.text_cell_render ol,
+.rendered_html ul,
+.rendered_html ol {
+  padding-left: 1.35rem;
+}
+
+.jp-RenderedHTMLCommon li::marker,
+.text_cell_render li::marker,
+.rendered_html li::marker {
+  color: var(--na-coral);
+}
+
+.jp-RenderedHTMLCommon blockquote,
+.text_cell_render blockquote,
+.rendered_html blockquote {
+  background: rgba(231, 245, 253, 0.55);
+  border-left: 4px solid var(--na-blue);
+  border-radius: 14px;
+  margin: 1rem 0;
+  padding: 0.9rem 1rem;
+}
+
+.jp-RenderedHTMLCommon code,
+.text_cell_render code,
+.rendered_html code {
+  background: rgba(20, 7, 15, 0.05);
+  border-radius: 8px;
+  color: var(--na-ink);
+  padding: 0.15rem 0.4rem;
+}
+
+.jp-Cell {
+  margin-bottom: 12px;
+}
+
+.jp-MarkdownCell,
+.text_cell {
+  background: transparent;
+}
+
+.jp-CodeCell,
+.code_cell {
+  border-radius: 20px;
+}
+
+.jp-InputArea,
+.input_area,
+.CodeMirror,
+div.jp-Editor,
+.jp-OutputArea-output pre,
+.output pre {
+  background: var(--na-surface-strong) !important;
+  border: 1px solid var(--na-border);
+  border-radius: 18px;
+  box-shadow: var(--na-shadow);
+}
+
+.jp-InputPrompt,
+.jp-OutputPrompt,
+.input_prompt,
+.output_prompt {
+  color: var(--na-green) !important;
+  font-weight: 600;
+}
+
+.jp-OutputArea-output,
+.output_wrapper,
+.output {
+  color: var(--na-ink-soft);
+}
+
+.jp-RenderedImage img,
+.output_png,
+.output img {
+  border-radius: 22px;
+  box-shadow: 0 18px 40px rgba(20, 7, 15, 0.12);
+}
+
+.na-section-card {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.94), rgba(249, 248, 246, 0.88));
+  border: 1px solid var(--na-border);
+  border-radius: 26px;
+  box-shadow: var(--na-shadow);
+  padding: 1.4rem 1.5rem;
+  margin: 0.8rem 0 1.6rem;
+}
+
+.na-kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  background: rgba(20, 7, 15, 0.04);
+  border: 1px solid rgba(20, 7, 15, 0.08);
+  border-radius: 999px;
+  color: var(--na-ink);
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+  padding: 0.38rem 0.78rem;
+  text-transform: uppercase;
+}
