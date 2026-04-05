@@ -1,6 +1,6 @@
 # Optimization Workflows
 
-The optimization material in this repository moves from intuition to implementation. The Week 2 lecture notebook introduces gradient flow and manual updates, while the homework notebook expands the idea into reusable optimizer routines such as plain gradient descent, momentum, AdaGrad, and Adam.
+The optimization material in this repository moves from intuition to implementation within Module 2 of the [Nebius AI Performance Engineering](https://academy.nebius.com/ai-engineering-uk) course. The Week 2 lecture notebook introduces gradient flow and manual updates, while the homework notebook expands the idea into reusable optimizer routines such as plain gradient descent, momentum, AdaGrad, and Adam.
 
 ## Key idea
 

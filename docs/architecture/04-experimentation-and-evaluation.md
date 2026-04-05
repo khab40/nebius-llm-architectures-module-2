@@ -1,6 +1,6 @@
 # Experimentation and Evaluation
 
-The repository is designed not just to train models, but to compare decisions. The notebooks repeatedly follow the same architecture: configure a model or optimizer, train it, evaluate it with metrics, and visualize the outcome for interpretation.
+The repository is designed not just to train models, but to compare decisions across the [Nebius AI Performance Engineering](https://academy.nebius.com/ai-engineering-uk) learning exercises. The notebooks repeatedly follow the same architecture: configure a model or optimizer, train it, evaluate it with metrics, and visualize the outcome for interpretation.
 
 ## Key idea
 

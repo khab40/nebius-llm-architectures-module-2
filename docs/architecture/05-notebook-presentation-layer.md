@@ -1,6 +1,6 @@
 # Notebook Presentation Layer
 
-The project uses a shared CSS file to provide consistent notebook styling inspired by Nebius Academy. This is a presentation architecture choice: styling is centralized in one place instead of being duplicated inside every `.ipynb` file.
+The project uses a shared CSS file to provide consistent notebook styling inspired by Nebius Academy and the [Nebius AI Performance Engineering](https://academy.nebius.com/ai-engineering-uk) course materials. This is a presentation architecture choice: styling is centralized in one place instead of being duplicated inside every `.ipynb` file.
 
 ## Key idea
 

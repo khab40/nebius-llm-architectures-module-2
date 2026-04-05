@@ -1,6 +1,6 @@
 # Text Classification Pipeline
 
-The homework notebook implements a classical NLP pipeline for binary sentiment classification on SST-2. This architecture intentionally avoids transformer abstractions and exposes the mechanics of preprocessing, feature construction, and SGD-based optimization.
+The homework notebook implements a classical NLP pipeline for binary sentiment classification on SST-2 as part of the [Nebius AI Performance Engineering](https://academy.nebius.com/ai-engineering-uk) course. This architecture intentionally avoids transformer abstractions and exposes the mechanics of preprocessing, feature construction, and SGD-based optimization.
 
 ## Key idea
 

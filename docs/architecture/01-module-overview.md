@@ -1,6 +1,6 @@
 # Module Overview
 
-This repository is organized around a notebook-centric learning architecture. Conceptually, the system has four layers: instructional notebooks, data and visual assets, a lightweight execution scaffold, and architecture notes that explain how the learning flows connect.
+This repository is organized around a notebook-centric learning architecture for Module 2 of the [Nebius AI Performance Engineering](https://academy.nebius.com/ai-engineering-uk) course. Conceptually, the system has four layers: instructional notebooks, data and visual assets, a lightweight execution scaffold, and architecture notes that explain how the learning flows connect.
 
 ## Key idea
 

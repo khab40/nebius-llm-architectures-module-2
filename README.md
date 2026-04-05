@@ -1,6 +1,6 @@
 # LLM Architectures Module 2
 
-This repository contains study material, experiments, and homework artifacts for Module 2 of the Nebius AI Performance Engineering course. The focus of this module is optimization fundamentals for modern ML systems: gradient flow, gradient descent, stochastic optimization, PyTorch autodiff, classical feature pipelines, and practical model training for classification tasks.
+This repository contains study material, experiments, and homework artifacts for Module 2 of the [Nebius AI Performance Engineering](https://academy.nebius.com/ai-engineering-uk) course. The focus of this module is optimization fundamentals for modern ML systems: gradient flow, gradient descent, stochastic optimization, PyTorch autodiff, classical feature pipelines, and practical model training for classification tasks.
 
 The project is notebook-first. Most of the implementation lives in Jupyter notebooks and is organized around learning flows, experiments, and polished homework deliverables rather than a conventional Python package layout.
 
