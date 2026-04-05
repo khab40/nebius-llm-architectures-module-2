@@ -34,7 +34,7 @@ flowchart TD
 
 ## Relevant files
 
-- [`../../src/hw1_optimization_pytorch_polished.ipynb`](../../src/hw1_optimization_pytorch_polished.ipynb)
+- [`../../src/LLM_Architectures_hometask_1_submission.ipynb`](../../src/LLM_Architectures_hometask_1_submission.ipynb)
 - [`../../src/pytorch_optimization_report.ipynb`](../../src/pytorch_optimization_report.ipynb)
 - [`../../src/LLM_Architectures,_week_2_Gradient_descent_&_Pytorch.ipynb`](../../src/LLM_Architectures,_week_2_Gradient_descent_&_Pytorch.ipynb)
 - [`../../src/weatherAUS.csv`](../../src/weatherAUS.csv)

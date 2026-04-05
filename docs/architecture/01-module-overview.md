@@ -38,7 +38,7 @@ flowchart TD
 ## Relevant files
 
 - [`../../src/LLM_Architectures,_week_2_Gradient_descent_&_Pytorch.ipynb`](../../src/LLM_Architectures,_week_2_Gradient_descent_&_Pytorch.ipynb)
-- [`../../src/hw1_optimization_pytorch_polished.ipynb`](../../src/hw1_optimization_pytorch_polished.ipynb)
+- [`../../src/LLM_Architectures_hometask_1_submission.ipynb`](../../src/LLM_Architectures_hometask_1_submission.ipynb)
 - [`../../src/pytorch_optimization_report.ipynb`](../../src/pytorch_optimization_report.ipynb)
 - [`../../src/Week_6_practice_session.ipynb`](../../src/Week_6_practice_session.ipynb)
 - [`../../src/notebook_theme.css`](../../src/notebook_theme.css)

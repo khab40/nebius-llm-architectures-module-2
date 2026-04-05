@@ -36,8 +36,8 @@ flowchart TD
 
 ## Relevant files
 
-- [`../../src/hw1_optimization_pytorch_polished.ipynb`](../../src/hw1_optimization_pytorch_polished.ipynb)
-- [`../../src/LLM_Architectures,_hometask_1.ipynb`](../../src/LLM_Architectures,_hometask_1.ipynb)
+- [`../../src/LLM_Architectures_hometask_1_submission.ipynb`](../../src/LLM_Architectures_hometask_1_submission.ipynb)
+- [`../../src/LLM_Architectures_hometask_1_original.ipynb`](../../src/LLM_Architectures_hometask_1_original.ipynb)
 
 ## Architectural significance
 

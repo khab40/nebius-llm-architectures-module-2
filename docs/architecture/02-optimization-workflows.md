@@ -37,13 +37,13 @@ flowchart LR
 ## Where it appears
 
 - `run_gd_pytorch` in the Week 2 lecture notebook demonstrates the basic optimization loop
-- `gradient_descent`, `momentum`, `adagrad`, and `adam` in the homework notebook provide explicit optimizer implementations for comparison
+- `gradient_descent`, `momentum`, `adagrad`, `rmsprop`, and `adam` in the homework notebook provide explicit optimizer implementations for comparison
 - plotting helpers render trajectories and objective values to show how update rules behave on easy and difficult surfaces
 
 ## Relevant files
 
 - [`../../src/LLM_Architectures,_week_2_Gradient_descent_&_Pytorch.ipynb`](../../src/LLM_Architectures,_week_2_Gradient_descent_&_Pytorch.ipynb)
-- [`../../src/hw1_optimization_pytorch_polished.ipynb`](../../src/hw1_optimization_pytorch_polished.ipynb)
+- [`../../src/LLM_Architectures_hometask_1_submission.ipynb`](../../src/LLM_Architectures_hometask_1_submission.ipynb)
 - [`../../src/gradient_descent.gif`](../../src/gradient_descent.gif)
 - [`../../src/gradient_descent_lr_0.1.gif`](../../src/gradient_descent_lr_0.1.gif)
 

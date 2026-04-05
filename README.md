@@ -2,7 +2,7 @@
 
 This repository contains study material, experiments, and homework artifacts for Module 2 of the [Nebius AI Performance Engineering](https://academy.nebius.com/ai-engineering-uk) course. The focus of this module is optimization fundamentals for modern ML systems: gradient flow, gradient descent, stochastic optimization, PyTorch autodiff, classical feature pipelines, and practical model training for classification tasks.
 
-The project is notebook-first. Most of the implementation lives in Jupyter notebooks and is organized around learning flows, experiments, and polished homework deliverables rather than a conventional Python package layout.
+The project is notebook-first. Most of the implementation lives in Jupyter notebooks and is organized around learning flows, experiments, and homework deliverables rather than a conventional Python package layout.
 
 ## Scope
 
@@ -18,13 +18,14 @@ Module 2 covers four connected themes:
 ### Core notebooks
 
 - [`src/LLM_Architectures,_week_2_Gradient_descent_&_Pytorch.ipynb`](src/LLM_Architectures,_week_2_Gradient_descent_&_Pytorch.ipynb): lecture and lab notebook for gradient flow, manual gradient descent, PyTorch autodiff, SGD for linear regression, weather classification, and softmax stability discussion
-- [`src/hw1_optimization_pytorch_polished.ipynb`](src/hw1_optimization_pytorch_polished.ipynb): polished homework notebook covering SST-2 preprocessing, Bag-of-Words vectorization, logistic regression in PyTorch, SGD training, L1 regularization, and optimizer comparisons
+- [`src/LLM_Architectures_hometask_1_submission.ipynb`](src/LLM_Architectures_hometask_1_submission.ipynb): final homework submission notebook covering SST-2 preprocessing, Bag-of-Words vectorization, logistic regression in PyTorch, SGD training, L1 regularization, optimizer comparisons, and the Rosenbrock bonus experiments
 - [`src/pytorch_optimization_report.ipynb`](src/pytorch_optimization_report.ipynb): compact report notebook summarizing selected optimization experiments and visual outputs
 - [`src/Week_6_practice_session.ipynb`](src/Week_6_practice_session.ipynb): additional PyTorch training practice focused on neural network construction and gradient descent workflows
 
 ### Supporting assets
 
-- [`src/LLM_Architectures,_hometask_1.ipynb`](src/LLM_Architectures,_hometask_1.ipynb): homework copy aligned with the polished optimization assignment
+- [`src/LLM_Architectures_hometask_1_original.ipynb`](src/LLM_Architectures_hometask_1_original.ipynb): original homework notebook preserved as a baseline before submission-oriented refinements
+- [`src/basics-test.ipynb`](src/basics-test.ipynb): small exploratory notebook for local notebook checks and simple experiments
 - [`src/weatherAUS.csv`](src/weatherAUS.csv): tabular dataset used in the classification section of the Week 2 notebook
 - [`src/gradient_descent.gif`](src/gradient_descent.gif): optimization visualization asset
 - [`src/gradient_descent_lr_0.1.gif`](src/gradient_descent_lr_0.1.gif): optimization visualization asset for a specific learning rate
@@ -92,4 +93,4 @@ python -m workspace
 
 - This repository is primarily an educational workspace, not a production application.
 - The main implementation logic is embedded in notebooks, so architectural boundaries are conceptual rather than package-enforced.
-- The most representative notebooks for Module 2 are the Week 2 lecture notebook and the polished optimization homework notebook.
+- The most representative notebooks for Module 2 are the Week 2 lecture notebook and the final homework submission notebook.

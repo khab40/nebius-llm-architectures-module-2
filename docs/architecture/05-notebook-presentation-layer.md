@@ -32,7 +32,7 @@ flowchart LR
 
 - [`../../src/notebook_theme.css`](../../src/notebook_theme.css)
 - [`../../src/LLM_Architectures,_week_2_Gradient_descent_&_Pytorch.ipynb`](../../src/LLM_Architectures,_week_2_Gradient_descent_&_Pytorch.ipynb)
-- [`../../src/hw1_optimization_pytorch_polished.ipynb`](../../src/hw1_optimization_pytorch_polished.ipynb)
+- [`../../src/LLM_Architectures_hometask_1_submission.ipynb`](../../src/LLM_Architectures_hometask_1_submission.ipynb)
 - [`../../src/pytorch_optimization_report.ipynb`](../../src/pytorch_optimization_report.ipynb)
 
 ## Architectural significance
