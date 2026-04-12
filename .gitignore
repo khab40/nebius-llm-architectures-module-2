@@ -9,3 +9,20 @@ __pycache__/
 *.pyo
 *.pyd
 .DS_Store
+
+# Local datasets and model/runtime artifacts
+.cache/
+.hf-cache/
+*.hf-cache
+*.hf-cache/
+*.arrow
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.onnx
+checkpoints/
+runs/
+wandb/
+mlruns/
+*.log
