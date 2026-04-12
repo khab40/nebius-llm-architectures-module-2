@@ -26,3 +26,4 @@ runs/
 wandb/
 mlruns/
 *.log
+src/data
