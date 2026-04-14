@@ -25,15 +25,15 @@ flowchart LR
 
 ## Where it appears
 
-- every notebook under `src/` begins with a stylesheet reference
+- themed homework/report notebooks under `src/hw*/` begin with a stylesheet reference to `../notebook_theme.css`
 - the CSS file defines the Nebius Academy-inspired palette, spacing, card treatment, and output styling
 
 ## Relevant files
 
 - [`../../src/notebook_theme.css`](../../src/notebook_theme.css)
-- [`../../src/LLM_Architectures,_week_2_Gradient_descent_&_Pytorch.ipynb`](../../src/LLM_Architectures,_week_2_Gradient_descent_&_Pytorch.ipynb)
-- [`../../src/LLM_Architectures_hometask_1_submission.ipynb`](../../src/LLM_Architectures_hometask_1_submission.ipynb)
-- [`../../src/pytorch_optimization_report.ipynb`](../../src/pytorch_optimization_report.ipynb)
+- [`../../src/hw2/HW2_Gradient_descent_&_Pytorch.ipynb`](../../src/hw2/HW2_Gradient_descent_&_Pytorch.ipynb)
+- [`../../src/hw1/HW_1_sub.ipynb`](../../src/hw1/HW_1_sub.ipynb)
+- [`../../src/hw2/pytorch_optimization_report.ipynb`](../../src/hw2/pytorch_optimization_report.ipynb)
 
 ## Architectural significance
 

@@ -44,15 +44,19 @@ flowchart TD
 
 ## Relevant files
 
-- [`../../src/LLM_Architectures,_week_2_Gradient_descent_&_Pytorch.ipynb`](../../src/LLM_Architectures,_week_2_Gradient_descent_&_Pytorch.ipynb)
-- [`../../src/LLM_Architectures_hometask_1_submission.ipynb`](../../src/LLM_Architectures_hometask_1_submission.ipynb)
-- [`../../src/LLM_Architectures_W4_p1_homework_CIFAR10_submission.ipynb`](../../src/LLM_Architectures_W4_p1_homework_CIFAR10_submission.ipynb)
-- [`../../src/LLM_Architectures_W4_p2_homework_RNN_LM_submission.ipynb`](../../src/LLM_Architectures_W4_p2_homework_RNN_LM_submission.ipynb)
-- [`../../src/LLM_Architectures_W4_homework_bonus_p2_forward_submission.ipynb`](../../src/LLM_Architectures_W4_homework_bonus_p2_forward_submission.ipynb)
-- [`../../src/LLM_Architectures_W4_homework_bonus_p1_backward_submission.ipynb`](../../src/LLM_Architectures_W4_homework_bonus_p1_backward_submission.ipynb)
-- [`../../src/pytorch_optimization_report.ipynb`](../../src/pytorch_optimization_report.ipynb)
+- [`../../src/hw2/HW2_Gradient_descent_&_Pytorch.ipynb`](../../src/hw2/HW2_Gradient_descent_&_Pytorch.ipynb)
+- [`../../src/hw1/HW_1_sub.ipynb`](../../src/hw1/HW_1_sub.ipynb)
+- [`../../src/hw4/HW4_p1_CIFAR10_sub.ipynb`](../../src/hw4/HW4_p1_CIFAR10_sub.ipynb)
+- [`../../src/hw4/HW4_p2_RNN_LM_sub.ipynb`](../../src/hw4/HW4_p2_RNN_LM_sub.ipynb)
+- [`../../src/hw4/HW4_bon_p2_forward_sub.ipynb`](../../src/hw4/HW4_bon_p2_forward_sub.ipynb)
+- [`../../src/hw4/HW4_bon_p1_backward_sub.ipynb`](../../src/hw4/HW4_bon_p1_backward_sub.ipynb)
+- [`../../src/hw2/pytorch_optimization_report.ipynb`](../../src/hw2/pytorch_optimization_report.ipynb)
 - [`../../src/Week_6_practice_session.ipynb`](../../src/Week_6_practice_session.ipynb)
 - [`../../src/notebook_theme.css`](../../src/notebook_theme.css)
+- [`01-cifar10-classification.md`](01-cifar10-classification.md)
+- [`02-rnn-language-modeling.md`](02-rnn-language-modeling.md)
+- [`03-forward-pass-framework.md`](03-forward-pass-framework.md)
+- [`04-backward-pass-framework.md`](04-backward-pass-framework.md)
 
 ## Design implications
 

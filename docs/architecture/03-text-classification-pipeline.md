@@ -36,8 +36,7 @@ flowchart TD
 
 ## Relevant files
 
-- [`../../src/LLM_Architectures_hometask_1_submission.ipynb`](../../src/LLM_Architectures_hometask_1_submission.ipynb)
-- [`../../src/LLM_Architectures_hometask_1_original.ipynb`](../../src/LLM_Architectures_hometask_1_original.ipynb)
+- [`../../src/hw1/HW_1_sub.ipynb`](../../src/hw1/HW_1_sub.ipynb)
 
 ## Architectural significance
 

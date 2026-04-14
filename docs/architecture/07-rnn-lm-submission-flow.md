@@ -50,9 +50,10 @@ flowchart TD
 
 ## Relevant files
 
-- [`../../src/LLM_Architectures_W4_p2_homework_RNN_LM_submission.ipynb`](../../src/LLM_Architectures_W4_p2_homework_RNN_LM_submission.ipynb)
-- [`../../src/LLM_Architectures_W4_p2_homework_RNN_LM_original.ipynb`](../../src/LLM_Architectures_W4_p2_homework_RNN_LM_original.ipynb)
-- [`../../src/RNN_demo.ipynb`](../../src/RNN_demo.ipynb)
+- [`../../src/hw4/HW4_p2_RNN_LM_sub.ipynb`](../../src/hw4/HW4_p2_RNN_LM_sub.ipynb)
+- [`../../src/hw4/RNN_demo.ipynb`](../../src/hw4/RNN_demo.ipynb)
+- [`02-rnn-language-modeling.md`](02-rnn-language-modeling.md)
+- `../../src/data/dinos.txt` local ignored dinosaur names data file
 
 ## Task checkpoints
 

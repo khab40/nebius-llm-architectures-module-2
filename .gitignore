@@ -8,6 +8,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.egg-info/
 .DS_Store
 
 # Local datasets and model/runtime artifacts

@@ -8,9 +8,27 @@ version = "0.1.0"
 description = "Nebius AI Performance Engineering class Python workspace"
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = []
+dependencies = [
+    "certifi>=2024.0",
+    "ipykernel>=6.29",
+    "jupyterlab>=4.2",
+    "matplotlib>=3.8",
+    "nbconvert>=7.16",
+    "nbformat>=5.10",
+    "notebook>=7.2",
+    "numpy>=2.0",
+    "pandas>=2.2",
+    "pillow>=10.0",
+    "scikit-learn>=1.4",
+    "scipy>=1.12",
+    "seaborn>=0.13",
+    "torch>=2.4",
+    "torchaudio>=2.4",
+    "torchvision>=0.19",
+    "tqdm>=4.66",
+]
 
-[project.optional-dependencies]
+[dependency-groups]
 dev = [
     "pytest>=8.0",
 ]
@@ -23,4 +41,3 @@ where = ["src"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
-

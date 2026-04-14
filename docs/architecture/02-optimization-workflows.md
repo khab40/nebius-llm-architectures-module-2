@@ -42,10 +42,10 @@ flowchart LR
 
 ## Relevant files
 
-- [`../../src/LLM_Architectures,_week_2_Gradient_descent_&_Pytorch.ipynb`](../../src/LLM_Architectures,_week_2_Gradient_descent_&_Pytorch.ipynb)
-- [`../../src/LLM_Architectures_hometask_1_submission.ipynb`](../../src/LLM_Architectures_hometask_1_submission.ipynb)
-- [`../../src/gradient_descent.gif`](../../src/gradient_descent.gif)
-- [`../../src/gradient_descent_lr_0.1.gif`](../../src/gradient_descent_lr_0.1.gif)
+- [`../../src/hw2/HW2_Gradient_descent_&_Pytorch.ipynb`](../../src/hw2/HW2_Gradient_descent_&_Pytorch.ipynb)
+- [`../../src/hw1/HW_1_sub.ipynb`](../../src/hw1/HW_1_sub.ipynb)
+- [`../gradient_descent.gif`](../gradient_descent.gif)
+- [`../gradient_descent_lr_0.1.gif`](../gradient_descent_lr_0.1.gif)
 
 ## Architectural significance
 

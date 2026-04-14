@@ -40,8 +40,8 @@ flowchart TD
 
 ## Relevant files
 
-- [`../../src/LLM_Architectures_W4_homework_bonus_p2_forward_submission.ipynb`](../../src/LLM_Architectures_W4_homework_bonus_p2_forward_submission.ipynb)
-- [`../../src/LLM_Architectures_W4_homework_bonus_p2_forward_original.ipynb`](../../src/LLM_Architectures_W4_homework_bonus_p2_forward_original.ipynb)
+- [`../../src/hw4/HW4_bon_p2_forward_sub.ipynb`](../../src/hw4/HW4_bon_p2_forward_sub.ipynb)
+- [`03-forward-pass-framework.md`](03-forward-pass-framework.md)
 
 ## Task checkpoints
 

@@ -49,8 +49,11 @@ flowchart TD
 
 ## Relevant files
 
-- [`../../src/LLM_Architectures_W4_p1_homework_CIFAR10_submission.ipynb`](../../src/LLM_Architectures_W4_p1_homework_CIFAR10_submission.ipynb)
-- [`../../src/LLM_Architectures_W4_p1_homework_CIFAR10_original.ipynb`](../../src/LLM_Architectures_W4_p1_homework_CIFAR10_original.ipynb)
+- [`../../src/hw4/HW4_p1_CIFAR10_sub.ipynb`](../../src/hw4/HW4_p1_CIFAR10_sub.ipynb)
+- [`../../src/hw4/HW4_p1_task_1_4_exp.ipynb`](../../src/hw4/HW4_p1_task_1_4_exp.ipynb)
+- [`../../src/hw4/HW4_p1_task_1_5_cat_dog_exp.ipynb`](../../src/hw4/HW4_p1_task_1_5_cat_dog_exp.ipynb)
+- [`../../src/hw4/HW4_p1_task_3_exp.ipynb`](../../src/hw4/HW4_p1_task_3_exp.ipynb)
+- [`01-cifar10-classification.md`](01-cifar10-classification.md)
 - `../../src/data/` local ignored cache for downloaded CIFAR-10 data
 
 ## Task checkpoints

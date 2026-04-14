@@ -53,8 +53,9 @@ flowchart TD
 
 ## Relevant files
 
-- [`../../src/LLM_Architectures_W4_homework_bonus_p1_backward_submission.ipynb`](../../src/LLM_Architectures_W4_homework_bonus_p1_backward_submission.ipynb)
-- [`../../src/LLM_Architectures_W4_homework_bonus_p1_backward_original.ipynb`](../../src/LLM_Architectures_W4_homework_bonus_p1_backward_original.ipynb)
+- [`../../src/hw4/HW4_bon_p1_backward_sub.ipynb`](../../src/hw4/HW4_bon_p1_backward_sub.ipynb)
+- [`04-backward-pass-framework.md`](04-backward-pass-framework.md)
+- `../../src/data/MNIST_csv/` optional local ignored MNIST CSV data directory
 
 ## Task checkpoints
 
