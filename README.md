@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/github-banner.png" alt="Nebius AI Performance Engineering Notebook Workspace banner">
+</p>
+
 # Nebius AI Performance Engineering Notebook Workspace
 
 This repository is a notebook-first workspace for the Nebius AI Performance Engineering course. It contains the shared course notebooks, supporting visual assets, and a tiny Python package used only for a sanity check.
@@ -5,6 +9,15 @@ This repository is a notebook-first workspace for the Nebius AI Performance Engi
 Most implementation work lives in Jupyter notebooks under `src/`. The notebooks in this project cover optimization fundamentals, PyTorch training loops, text-classification work, and shared practice material.
 
 HW4 has been split into a standalone sibling VS Code Python project at `../hw4`. That project now owns the HW4 CIFAR-10 notebooks, character-level RNN language-model notebook, NumPy forward/backward-pass bonus notebooks, HW4 data files, and HW4-specific architecture notes.
+
+## GitHub Artwork
+
+<p>
+  <img src="img/github-icon.png" width="96" height="96" alt="Repository icon">
+</p>
+
+- [`img/github-banner.png`](img/github-banner.png): GitHub repository banner/social preview image.
+- [`img/github-icon.png`](img/github-icon.png): smaller square image for the GitHub repository icon/avatar.
 
 ## Current Contents
 
@@ -57,6 +70,9 @@ The repository also contains a minimal package and test used to verify that the 
 .
 ├── docs/
 │   └── architecture/
+├── img/
+│   ├── github-banner.png
+│   └── github-icon.png
 ├── src/
 │   ├── hw1/
 │   ├── hw2/
