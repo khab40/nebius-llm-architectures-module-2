@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/github-banner.png" alt="Nebius AI Performance Engineering Notebook Workspace banner">
+  <img src="img/github-banner.jpg" alt="Nebius AI Performance Engineering Notebook Workspace banner">
 </p>
 
 # Nebius AI Performance Engineering Notebook Workspace
@@ -16,7 +16,7 @@ HW4 has been split into a standalone sibling VS Code Python project at `../hw4`.
   <img src="img/github-icon.png" width="96" height="96" alt="Repository icon">
 </p>
 
-- [`img/github-banner.png`](img/github-banner.png): GitHub repository banner/social preview image.
+- [`img/github-banner.jpg`](img/github-banner.jpg): GitHub repository banner/social preview image.
 - [`img/github-icon.png`](img/github-icon.png): smaller square image for the GitHub repository icon/avatar.
 
 ## Current Contents
@@ -71,7 +71,7 @@ The repository also contains a minimal package and test used to verify that the 
 ├── docs/
 │   └── architecture/
 ├── img/
-│   ├── github-banner.png
+│   ├── github-banner.jpg
 │   └── github-icon.png
 ├── src/
 │   ├── hw1/
